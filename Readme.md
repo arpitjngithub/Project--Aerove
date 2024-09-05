@@ -1,7 +1,7 @@
 # Project Overview
 
-**Guide:** Prof. Dhwanil Shukla | **Department of Aerospace Engineering** | **IIT Bombay**
-
+**Guide :** Prof. Dhwanil Shukla | **Department of Aerospace Engineering** | **IIT Bombay**</br>
+**Time Line** : Sept 2023- Present
 ## Roles and Achievements
 
 - **Senior Perception Engineer** of a team composed of 50+ members working on advanced autonomous systems.
