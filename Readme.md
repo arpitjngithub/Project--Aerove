@@ -12,3 +12,7 @@
 - Explored **RNNs** and their variants, including **LSTMs, GRUs,** and **Bidirectional RNNs** for sequence modeling.
 - Successfully deployed **ORB-SLAM2** in real-time on the **ZED-2 Stereo camera** using **ROS** on various datasets.
 - Surveyed multiple research papers on **SLAM algorithms**, focusing on improving localization and mapping accuracy.
+
+## You can find all the work in the separate repositories on my GitHub profile.
+## Contact Information
+For inquiries or collaboration opportunities, please contact arpitjain8302@gmail.com
